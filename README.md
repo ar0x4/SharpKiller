@@ -1,5 +1,7 @@
 # SharpKiller
-Lifetime AMSI bypass by @ZeroMemoryEx ported to .NET Framework 4.8.
+Lifetime AMSI bypass AMSI-Killer by @ZeroMemoryEx ported to .NET Framework 4.8.
+
+
 Newly integrated features:
 
 [ x ] - Live scan for new powershell processes every 0.5 seconds -> Automatically patches new powershell instances 
@@ -51,6 +53,13 @@ Newly integrated features:
 
   ![image](https://user-images.githubusercontent.com/60795188/221432418-841db688-879c-4915-8d6e-926236a3732c.png)
 
-* now we execute "Invoke-Mimikatz"
+* now we can execute "Invoke-Mimikatz"
 
   ![Screenshot 2023-02-26 195914](https://user-images.githubusercontent.com/60795188/221432425-5c121433-33f4-4b8d-add6-63c078d5edb8.png)
+
+
+
+
+
+References:
+https://github.com/ZeroMemoryEx/Amsi-Killer
