@@ -1,3 +1,5 @@
+*This is only the fork of the SharkKiller project, the main repo is on https://github.com/S1lkys/SharpKiller.*
+
 # SharpKiller
 Lifetime AMSI bypass AMSI-Killer by @ZeroMemoryEx ported to .NET Framework 4.8.
 
